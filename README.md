@@ -17,7 +17,7 @@ The advantage of the method are over six orders of magnitute faster prediction t
 ```tidd = weka_run(seq,W,T,wide)```
 
 where:
-* sekv	.. nucleotide sequence (capital letters, ATGC only)
+* seq	.. nucleotide sequence (capital letters, ATGC only)
 * W	.. destabilization width: {5, 10, 15, 20}
 * T	.. destabilization treshold: {0.1, 0.5, 1.0, 1.5}
 * wide	.. number of included neighboring regions. The models here are restricted to 0 or 6 bp neighboring regions, though the full set of models can be downloaded from http://tidd.immt.eu/.
