@@ -1,5 +1,5 @@
 # Thermodynamically induced duplex destabilization
-This process leads to DNA melting bubble formation, as published in our paper [Zrimec & Lapanje 2015: Fast Prediction of DNA Melting Bubbles Using DNA Thermodynamic Stability](https://ieeexplore.ieee.org/document/7018957])
+This process leads to DNA melting bubble formation, as published in our paper [Zrimec & Lapanje 2015: Fast Prediction of DNA Melting Bubbles Using DNA Thermodynamic Stability](https://dx.doi.org/10.1109/TCBB.2015.2396057)
 
 ## Description
 DNA melting bubbles are the basis of many DNA-protein interactions, such as those in regulatory DNA regions driving gene expression, DNA replication and bacterial horizontal gene transfer. 
