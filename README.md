@@ -22,4 +22,4 @@ where:
 * T	.. destabilization treshold: {0.1, 0.5, 1.0, 1.5}
 * wide	.. number of included neighboring regions. The models here are restricted to 0 or 6 bp neighboring regions, though the full set of models can be downloaded from http://tidd.immt.eu/.
 
-Dependencies: Weka.jar is needed, which is included here.
+Dependencies: Weka.jar is needed, which is included here (v3.7.9 works fine).
